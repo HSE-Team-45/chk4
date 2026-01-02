@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+python-jose[cryptography]
+python-multipart
+pillow
+pydantic-settings
+numpy
+paddlepaddle
+paddleocr
+opencv-python-headless
+pytest
+safetensors
